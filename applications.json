@@ -11427,7 +11427,7 @@
                 "menubar",
                 "utilities"
             ],
-            "repo_url": "https://github.com/chungxon/MemStats",
+            "repo_url": "https://github.com/sown-oss/MemStats",
             "icon_url": "https://memstats.chungxon.dev/assets/icon.png",
             "screenshots": [
                 "https://memstats.chungxon.dev/assets/demo.gif"
